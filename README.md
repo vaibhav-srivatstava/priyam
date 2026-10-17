@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wedding invitation
 
 An animated Indian wedding invitation built with Next.js (App Router) and Framer Motion.
@@ -36,3 +37,6 @@ The form posts to `app/api/rsvp/route.ts`, which validates the reply and logs it
 ## Deploy
 
 Push to GitHub and import the repo on Vercel. No environment variables are needed until you add storage for RSVPs.
+=======
+# priyam
+>>>>>>> 771b89b03f56674a0cdc03e7f3560362f078b819
